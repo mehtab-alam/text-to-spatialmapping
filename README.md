@@ -1,4 +1,5 @@
 <p> <img src="https://mood-h2020.eu/wp-content/uploads/2020/10/logo_Mood_cmjn_black-1.jpg" width="15%";"/></p> 
+
 # Risk Mapping Dashboard: From text to Spatial Mapping
 **MOOD Summer School 2023**  
 
