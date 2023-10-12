@@ -43,3 +43,17 @@ __________________________________________________________________________
 This dataset is about the articles contains the outbreaks of West-Nile Virus (WNV) extracted from PADI-web in Europe. Maybe we have the locations is outside of the Europe in it with some reference to the outbreaks but we are not concerned in the accuracy of the outbreak. You can download the dataset from this **[link](https://drive.google.com/uc?export=download&id=1GxkNcT4xviP5Yta0MMxPhLCHpyjleISO).** 
 
 The information in the articles are more or less same with some extra information too ☺️. 
+
+## [Cite this work](https://github.com/mehtab-alam/text-to-spatialmapping/)
+
+```latex
+@software{syed_text_to_spatial_2023,
+    author = {Syed, Mehtab Alam and Arsevska, Elena and Roche, Mathieu and Teisseire, Maguelonne},
+    doi = {10.5281/zenodo.8415401},
+    license = {GNU GPLv3},
+    title = {{GeospaCy}},
+    url = {https://github.com/mehtab-alam/text-to-spatialmapping/},
+    version = {1.0.0},
+    year = {2023}
+}
+```
