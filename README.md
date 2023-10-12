@@ -49,7 +49,7 @@ The information in the articles are more or less same with some extra informatio
 ```latex
 @software{syed_text_to_spatial_2023,
     author = {Syed, Mehtab Alam and Arsevska, Elena and Roche, Mathieu and Teisseire, Maguelonne},
-    doi = {10.5281/zenodo.8415401},
+    doi = {10.5281/zenodo.8434873},
     license = {GNU GPLv3},
     title = {{Text to Spatial Mapping}},
     url = {https://github.com/mehtab-alam/text-to-spatialmapping/},
