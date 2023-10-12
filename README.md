@@ -51,7 +51,7 @@ The information in the articles are more or less same with some extra informatio
     author = {Syed, Mehtab Alam and Arsevska, Elena and Roche, Mathieu and Teisseire, Maguelonne},
     doi = {10.5281/zenodo.8415401},
     license = {GNU GPLv3},
-    title = {{GeospaCy}},
+    title = {{Text to Spatial Mapping}},
     url = {https://github.com/mehtab-alam/text-to-spatialmapping/},
     version = {1.0.0},
     year = {2023}
